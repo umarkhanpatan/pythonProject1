@@ -1,0 +1,2 @@
+print("ghgh")
+print("ok")
